@@ -1,0 +1,6 @@
+python-telegram-bot==13.13
+fastlogging==1.0.0
+psutil==5.9.8
+requests>=2.31.0
+urllib3>=1.26.15
+pyjwt>=2.8.0
